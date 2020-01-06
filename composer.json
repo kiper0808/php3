@@ -1,0 +1,16 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Polzagram\\" : "src"
+    }
+  },
+  "require": {
+    "aura/router": "^3.1",
+    "illuminate/view": "^6.8",
+    "illuminate/database": "^6.8",
+    "guzzlehttp/psr7": "^1.6",
+    "aura/di": "^4.0",
+    "vlucas/phpdotenv": "^4.1",
+    "illuminate/validation": "^6.8"
+  }
+}
