@@ -1,7 +1,9 @@
 @extends('layout')
 
-@section('title', 'Title')
+@section('title', 'Пользаграм')
 
 @section('content')
-<h1>Главная страница</h1>
+    <div class="starter-template">
+        <h1>Главная страница</h1>
+    </div>
 @endsection
