@@ -39,7 +39,7 @@ class RegisterAction
 
           $method = $request->getServerParams()['REQUEST_METHOD'];
 //        $token = $request->getParsedBody()['token'] ?? '';
-//        $email = $request->getParsedBody()['email'] ?? '';
+//        $email = $request->getParsedBody()['email'] ?? '';le
 //        $password = $request->getParsedBody()['password'] ?? '';
 //        $password_confirmation = $request->getParsedBody()['password_confirmation'] ?? '';
 
